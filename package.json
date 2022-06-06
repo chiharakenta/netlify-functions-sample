@@ -8,5 +8,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.0",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^1.0.0",
+    "@netlify/zip-it-and-ship-it": "^5.10.0",
+    "netlify-cli": "^10.4.0"
+  }
 }
